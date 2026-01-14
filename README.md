@@ -31,7 +31,7 @@ As análises do NotebookLM sobre Matrizes e Determinantes foram baseadas nos seg
 - Matriz de Vandermonde: https://www.youtube.com/watch?v=N_v1p8w_P6Y
 - Matriz Inversa: https://www.youtube.com/watch?v=uK481nS1I_o
 
-**Sites: Toda Matéroa, Brasil Escola e Mundo Educação**
+**Sites: Toda Matéria, Brasil Escola e Mundo Educação**
 - Determinantes: como calcular até ordem 3 : https://www.todamateria.com.br/determinantes/
 - Matrizes: https://www.todamateria.com.br/matrizes-resumo/
 - Matriz: o que é, tipos, operações, exemplos: https://brasilescola.uol.com.br/matematica/matriz.htm
