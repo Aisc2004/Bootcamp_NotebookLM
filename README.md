@@ -1,11 +1,10 @@
 # Bootcamp_NotebookLM
 Desafio do Bootcamp da DIO com a Bradesco, utilizando a plataforma NotebookLM da Google.
 
-# Resumo 
 Este NotebookLM foi estruturado para oferecer aprendizado ou revisão do tema de Matrizes e Determinantes. O conteúdo aborda assuntos como **lei de formação de matriz,
 operações, tipo de matrizes até o calculo de determinates.**
 
-# Link para o NotebookLM criado:
+**Link para o NotebookLM criado:**
 https://notebooklm.google.com/notebook/7090a736-03a2-40c0-a5d4-febb24483d9c
 
 # Fontes do Projeto
