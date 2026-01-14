@@ -2,14 +2,14 @@
 Desafio do Bootcamp da DIO com a Bradesco, utilizando a plataforma NotebookLM da Google.
 
 # Resumo 
-O texto apresenta um guia detalhado sobre matrizes, definindo-as como tabelas numéricas estruturadas em linhas e colunas para facilitar a organização de dados. O conteúdo explora as representações matemáticas desses elementos e classifica diversos modelos, como as matrizes quadradas, identidades e inversas. Além das definições teóricas, o material explica como 
-realizar operações fundamentais, incluindo adição, subtração e multiplicação, respeitando propriedades específicas. O artigo também aborda o cálculo de determinantes para diferentes ordens, utilizando métodos como a Regra de Sarrus e o Teorema de Laplace. Por fim, a fonte destaca a relevância prática desse conceito em diversas áreas do conhecimento e oferece recursos adicionais para o estudo acadêmico.
+Este NotebookLM foi estruturado para oferecer aprendizado ou revisão do tema de Matrizes e Determinantes. O conteúdo aborda assuntos como **lei de formação de matriz,
+operações, tipo de matrizes até o calculo de determinates.**
 
 # Link para o NotebookLM criado:
 https://notebooklm.google.com/notebook/7090a736-03a2-40c0-a5d4-febb24483d9c
 
 # Fontes do Projeto
-As análises do NotebookLM sobre Matrizes e Determinantes foram baseadas nos seguintes conteúos:
+As análises do NotebookLM sobre Matrizes e Determinantes foram baseadas nos seguintes conteúdos:
 
 **Canal: Gis com Giz**
 - Matrizes - Definição e Representação (#01): https://www.youtube.com/watch?v=kDr1CdPuVXo
