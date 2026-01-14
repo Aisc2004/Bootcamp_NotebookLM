@@ -7,6 +7,10 @@ operações, tipo de matrizes até o calculo de determinates.**
 **Link para o NotebookLM criado:**
 https://notebooklm.google.com/notebook/7090a736-03a2-40c0-a5d4-febb24483d9c
 
+# Prompt Inicial (para formatar as saídas futuras):
+Estruture suas respostas com uma pequena teoria de no máximo 5 linhas, além disso sempre mostre um exemplo prático do que foi perguntado e formate as matrizes.
+Agora me responda sobre **{coloque sua pergunta}**
+
 # Fontes do Projeto
 As análises do NotebookLM sobre Matrizes e Determinantes foram baseadas nos seguintes conteúdos:
 
