@@ -34,13 +34,13 @@ As análises do NotebookLM sobre Matrizes e Determinantes foram baseadas nos seg
 
 **Sites**
 **Toda Materia**:
-  - Determinantes: como calcular até ordem 3 : https://www.todamateria.com.br/determinantes/
-  - Matrizes: https://www.todamateria.com.br/matrizes-resumo/
+- Determinantes: como calcular até ordem 3 : https://www.todamateria.com.br/determinantes/
+- Matrizes: https://www.todamateria.com.br/matrizes-resumo/
 **Brasil Escola**:
-  - Matriz: o que é, tipos, operações, exemplos: https://brasilescola.uol.com.br/matematica/matriz.htm
-  - Determinantes: como calcular, propriedades, exemplos: https://brasilescola.uol.com.br/matematica/determinantes-1.htm
+- Matriz: o que é, tipos, operações, exemplos: https://brasilescola.uol.com.br/matematica/matriz.htm
+- Determinantes: como calcular, propriedades, exemplos: https://brasilescola.uol.com.br/matematica/determinantes-1.htm
 **Mundo Educação**
-  - Matrizes e Determinates: https://mundoeducacao.uol.com.br/matematica/matriz-determinantes.htm
+- Matrizes e Determinates: https://mundoeducacao.uol.com.br/matematica/matriz-determinantes.htm
 
 ## 📝 Como Replicar este Notebook
 Se desejar criar o seu próprio notebook com esta base de conhecimento:
