@@ -46,5 +46,5 @@ As análises do NotebookLM sobre Matrizes e Determinantes foram baseadas nos seg
 Se desejar criar o seu próprio notebook com esta base de conhecimento:
 1. Acesse o [NotebookLM](https://notebooklm.google.com/).
 2. Crie um novo projeto.
-3. Adicione fontes do tipo **YouTube** e cole os URLs listados acima.
+3. Adicione as fontes colando os URLs listados acima.
   
